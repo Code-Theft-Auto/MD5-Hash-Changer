@@ -1,4 +1,7 @@
-# MD5-Hash-Changer
+<h1 align=center>
+    MD5-Hash-Changer
+</h1>
+
 C# Application to Change MD5 Hash of any file. It work by appending "null" characters to the end of file
 
 ## Requirement & Download
